@@ -1,0 +1,13 @@
+{
+ "name": "wallabag/Fivefilters_Libraries",
+ "type": "library",
+ "description": "Libraries from @fivefilters.",
+ "homepage": "https://github.com/wallabag/Fivefilters_Libraries",
+ "authors": [
+        {
+            "name": "Nicolas Lœuillet",
+            "email": "nicolas@loeuillet.org",
+            "homepage": "http://www.cdetc.fr"
+        }
+    ]
+}
